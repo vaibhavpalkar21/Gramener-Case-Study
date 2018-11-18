@@ -1,5 +1,4 @@
 ## EDA group Case Study
-# members - Pradnya Paithankar, Dr. RAjendra Warke, VAibhav Palkar, Sameer Sinha
 
 library(ggplot2)
 library(stringr)
